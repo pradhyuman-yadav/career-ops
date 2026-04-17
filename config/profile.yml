@@ -1,0 +1,71 @@
+candidate:
+  full_name: "Pradhyuman Yadav"
+  email: "pradhyuman680@gmail.com"
+  phone: "+15712594892"
+  location: "San Jose, CA"
+  linkedin: "linkedin.com/in/pradhyuman-yadav"
+  portfolio_url: "https://thepk.in/"
+  github: "github.com/pradhyuman-yadav"
+
+target_roles:
+  primary:
+    - "AI Engineer"
+    - "Software Engineer"
+    - "Backend Engineer"
+    - "Solutions Engineer"
+    - "Technical Project Manager"
+  archetypes:
+    - name: "AI/ML Engineer"
+      level: "Mid"
+      fit: "primary"
+    - name: "Backend Engineer"
+      level: "Mid"
+      fit: "primary"
+    - name: "Solutions Engineer"
+      level: "Mid"
+      fit: "primary"
+    - name: "Technical Project Manager"
+      level: "Mid"
+      fit: "secondary"
+
+narrative:
+  headline: "AI Software Engineer — production LLM systems, RAG pipelines, agent orchestration"
+  exit_story: "Co-founded and sold a startup. 2.5+ years shipping production AI at scale — 50K+ weekly queries, 65% latency reduction, acquired codebase. MS CS from GWU. Best at debugging and learning anything fast."
+  superpowers:
+    - "Debugging and root-cause analysis under pressure"
+    - "End-to-end AI systems from prototype to production"
+    - "Fast learner — ramps on any stack or domain quickly"
+    - "RAG + multi-agent orchestration at production scale"
+    - "Self-hosted AI deployment (Ollama, vLLM, llama.cpp)"
+  proof_points:
+    - name: "Continental Expedited Services — LLM multi-agent system"
+      url: "cv.md"
+      hero_metric: "92% accuracy, 50K+ weekly queries, 65% latency cut"
+    - name: "Total Tivio — AI video platform (acquired)"
+      url: "cv.md"
+      hero_metric: "Acquired by private buyer, 50% faster deploys"
+    - name: "SafeRide — AI ride safety platform"
+      url: "https://saferide.co.in"
+      hero_metric: "8K+ riders, 94% anomaly detection accuracy, 78% faster incident response"
+    - name: "Edge LLM inference platform"
+      url: "https://thepk.in"
+      hero_metric: "90% cheaper than cloud APIs, <500ms TTFT, 99%+ uptime"
+
+compensation:
+  target_range: "$120K-145K"
+  currency: "USD"
+  minimum: "$110K"
+  location_flexibility: "No preference — remote, hybrid, or onsite all fine"
+
+location:
+  country: "United States"
+  city: "San Jose"
+  timezone: "PST"
+  visa_status: "F1 visa (OPT) — no sponsorship needed currently, H1B sponsorship needed long-term"
+
+deal_breakers:
+  - "Companies requiring immediate H1B/visa sponsorship"
+  - "Companies with fewer than 10 employees"
+
+language:
+  modes_dir: "modes"
