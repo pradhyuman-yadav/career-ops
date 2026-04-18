@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pradhyuman Yadav — CV</title>
+<style>
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('../templates/fonts/space-grotesk-latin.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('../templates/fonts/space-grotesk-latin-ext.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('../templates/fonts/dm-sans-latin.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('../templates/fonts/dm-sans-latin-ext.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    line-height: 1.5;
+    color: #1a1a2e;
+    background: #ffffff;
+    padding: 0;
+    margin: 0;
+  }
+
+  .page {
+    width: 100%;
+    max-width: 210mm;
+    margin: 0 auto;
+    padding: 2px 0;
+  }
+
+  /* === HEADER === */
+  .header {
+    margin-bottom: 20px;
+  }
+
+  .header h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    color: #1a1a2e;
+    letter-spacing: -0.02em;
+    margin-bottom: 6px;
+    line-height: 1.1;
+  }
+
+  .header-gradient {
+    height: 2px;
+    background: linear-gradient(to right, hsl(187, 74%, 32%), hsl(270, 70%, 45%));
+    border-radius: 1px;
+    margin-bottom: 10px;
+  }
+
+  .contact-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 14px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10.5px;
+    line-height: 1.4;
+    color: #555;
+  }
+
+  .contact-row a {
+    color: #555;
+    text-decoration: none;
+  }
+
+  .contact-row .separator {
+    color: #ccc;
+  }
+
+  /* === SECTIONS === */
+  .section {
+    margin-bottom: 18px;
+  }
+
+  .section-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: hsl(187, 74%, 32%);
+    border-bottom: 1.5px solid #e2e2e2;
+    padding-bottom: 4px;
+    margin-bottom: 10px;
+    line-height: 1.2;
+  }
+
+  /* === PROFESSIONAL SUMMARY === */
+  .summary-text {
+    font-size: 11px;
+    line-height: 1.7;
+    color: #2f2f2f;
+  }
+
+  /* Links must never break across lines */
+  a {
+    white-space: nowrap;
+  }
+
+  /* === CORE COMPETENCIES === */
+  .competencies-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .competency-tag {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10px;
+    font-weight: 500;
+    color: hsl(187, 74%, 28%);
+    background: hsl(187, 40%, 95%);
+    padding: 4px 10px;
+    border-radius: 3px;
+    border: 1px solid hsl(187, 40%, 88%);
+  }
+
+  /* === WORK EXPERIENCE === */
+  .job {
+    margin-bottom: 14px;
+  }
+
+  .job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+    margin-bottom: 4px;
+  }
+
+  .job-company {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 12.5px;
+    font-weight: 600;
+    color: hsl(270, 70%, 45%);
+  }
+
+  .job-period {
+    font-size: 10.5px;
+    color: #777;
+    white-space: nowrap;
+  }
+
+  .job-role {
+    font-size: 11px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 6px;
+  }
+
+  .job-location {
+    font-size: 10px;
+    color: #888;
+  }
+
+  .job ul {
+    padding-left: 18px;
+    margin-top: 6px;
+  }
+
+  .job li {
+    font-size: 10.5px;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 4px;
+  }
+
+  .job li strong {
+    font-weight: 600;
+  }
+
+  /* === PROJECTS === */
+  .project {
+    margin-bottom: 12px;
+  }
+
+  .project-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 11.5px;
+    font-weight: 600;
+    color: hsl(270, 70%, 45%);
+  }
+
+  .project-badge {
+    font-size: 9px;
+    font-weight: 500;
+    color: hsl(187, 74%, 32%);
+    background: hsl(187, 40%, 95%);
+    padding: 1px 6px;
+    border-radius: 2px;
+    margin-left: 6px;
+  }
+
+  .project-desc {
+    font-size: 10.5px;
+    color: #444;
+    margin-top: 3px;
+    line-height: 1.55;
+  }
+
+  .project-tech {
+    font-size: 9.5px;
+    color: #888;
+    margin-top: 3px;
+  }
+
+  /* === EDUCATION === */
+  .edu-item {
+    margin-bottom: 8px;
+  }
+
+  .edu-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+  }
+
+  .edu-title {
+    font-weight: 600;
+    font-size: 11px;
+    color: #333;
+  }
+
+  .edu-org {
+    color: hsl(270, 70%, 45%);
+    font-weight: 500;
+  }
+
+  .edu-year {
+    font-size: 10px;
+    color: #777;
+    white-space: nowrap;
+  }
+
+  .edu-desc {
+    font-size: 10px;
+    color: #666;
+    margin-top: 2px;
+    line-height: 1.5;
+  }
+
+  /* === SKILLS === */
+  .skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 14px;
+  }
+
+  .skill-item {
+    font-size: 10.5px;
+    color: #444;
+  }
+
+  .skill-category {
+    font-weight: 600;
+    color: #333;
+    font-size: 10.5px;
+  }
+
+  /* === PRINT === */
+  @media print {
+    body {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+
+    .page {
+      padding: 0;
+    }
+  }
+
+  /* === PAGE BREAK CONTROL === */
+  .avoid-break,
+  .job,
+  .project,
+  .edu-item,
+  .cert-item {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <div class="header avoid-break">
+    <h1>Pradhyuman Yadav</h1>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <span>+1 (571) 259-4892</span>
+      <span class="separator">|</span>
+      <span>pradhyuman680@gmail.com</span>
+      <span class="separator">|</span>
+      <a href="https://linkedin.com/in/pradhyuman-yadav">linkedin.com/in/pradhyuman-yadav</a>
+      <span class="separator">|</span>
+      <a href="https://thepk.in">thepk.in</a>
+      <span class="separator">|</span>
+      <span>San Jose, CA (PST)</span>
+    </div>
+  </div>
+
+  <!-- PROFESSIONAL SUMMARY -->
+  <div class="section avoid-break">
+    <div class="section-title">Professional Summary</div>
+    <div class="summary-text">AI Engineer with 2.5+ years deploying production voice AI agents at enterprise scale — including a voice + email LLM agent serving <strong>50K+ weekly queries at 92% accuracy</strong> with <strong>1.1s end-to-end latency</strong> for a logistics client. Proven in client-facing technical deployment (Colaberry → Continental Expedited Services; Quanta → Meta), owning the full lifecycle from solution design to production reliability. Deep in LLM orchestration, RAG pipelines, LangChain, FastAPI, and real-time streaming inference. Experienced with Docker and Kubernetes for containerized AI deployments. Based in San Jose, CA (PST). Portfolio: <a href="https://thepk.in">thepk.in</a>.</div>
+  </div>
+
+  <!-- CORE COMPETENCIES -->
+  <div class="section">
+    <div class="section-title">Core Competencies</div>
+    <div class="competencies-grid">
+      <span class="competency-tag">Voice AI Agent Deployment</span>
+      <span class="competency-tag">LLM Orchestration</span>
+      <span class="competency-tag">RAG Architecture</span>
+      <span class="competency-tag">Enterprise Client Deployment</span>
+      <span class="competency-tag">Real-Time Streaming Inference</span>
+      <span class="competency-tag">LLM Guardrails &amp; Reliability</span>
+      <span class="competency-tag">Latency Optimization</span>
+      <span class="competency-tag">Production AI Systems</span>
+      <span class="competency-tag">GPT-4 / Claude APIs</span>
+      <span class="competency-tag">FastAPI + Python</span>
+      <span class="competency-tag">Docker &amp; Kubernetes</span>
+      <span class="competency-tag">Forward Deployed Engineering</span>
+    </div>
+  </div>
+
+  <!-- WORK EXPERIENCE -->
+  <div class="section">
+    <div class="section-title">Work Experience</div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Quanta Manufacturing Fremont <span style="color:#888;font-weight:400;font-size:11px;">(Client: Meta)</span></span>
+        <span class="job-period">Dec 2025 – Present</span>
+      </div>
+      <div class="job-role">Technical Lead &amp; Forward Deployed Engineer <span class="job-location">· New Albany, OH (on-site client deployment)</span></div>
+      <ul>
+        <li>Led on-site engineering deployment at Meta's facility — directly embedded with the client team, owning technical coordination from environment setup through validation sign-off. Demonstrates the Forward Deployed Engineer model: client-facing, on-site, full lifecycle ownership.</li>
+        <li>Developed and modified automated testing and diagnostics scripts; established new testing environments that streamlined the validation pipeline and reduced client-impacting downtime.</li>
+        <li>Integrated AI-driven diagnostics into the testing pipeline, improving fault detection accuracy and modernizing client infrastructure without production disruption.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Colaberry <span style="color:#888;font-weight:400;font-size:11px;">(Client: Continental Expedited Services)</span></span>
+        <span class="job-period">Jul 2025 – Dec 2025</span>
+      </div>
+      <div class="job-role">AI Software Engineer — Voice AI Agent Deployment</div>
+      <ul>
+        <li>Deployed a production <strong>Voice AI agent</strong> (LLM multi-agent system) for a logistics enterprise client, achieving <strong>92% accuracy</strong> across <strong>50K+ weekly queries</strong> via RAG with a unified vector knowledge base powering both Voice and Email pipelines — directly analogous to PolyAI's enterprise voice agent deployments.</li>
+        <li>Engineered the real-time voice routing pipeline: autonomous triage of inbound voice requests — vehicle type, quoting, scheduling, and on-route inquiries — routed via intelligent dispatch with <strong>1.1s end-to-end latency</strong> (reduced <strong>65%</strong> from 3.2s) through context engineering, prompt optimization, and token budgeting against GPT-4/Claude APIs.</li>
+        <li>Implemented <strong>LLM guardrails with auto-recovery mechanisms</strong> to ensure consistent agent behavior under production load — eliminating model drift incidents across concurrent Voice and Email channels (100+ concurrent requests).</li>
+        <li>Owned the full client deployment lifecycle: solution design, integration, testing, production go-live, and ongoing reliability for an enterprise client handling real-time logistics operations 24/7.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Total Tivio</span>
+        <span class="job-period">Sep 2024 – Jul 2025</span>
+      </div>
+      <div class="job-role">Co-Founder &amp; AI Software Engineer</div>
+      <ul>
+        <li>Co-founded a gamified medical video platform; built an AI content recommendation engine using embedding similarity search (Elasticsearch) and LLM-powered learning-path generation for clinician personalization.</li>
+        <li>Added an AI transcription pipeline (Whisper API + summarization) with semantic search (vector embeddings + FAISS) for surgical procedure discovery across the training library.</li>
+        <li>Increased deployment velocity <strong>50%</strong> via CI/CD (Docker, GitHub Actions); improved uptime <strong>40%</strong> with AWS auto-scaling. Platform acquired — transferred all AI assets including prompt libraries and embedding indexes.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Optum (UnitedHealth Group)</span>
+        <span class="job-period">Jul 2022 – Aug 2023</span>
+      </div>
+      <div class="job-role">Software Engineer, Full Stack</div>
+      <ul>
+        <li>Built a real-time data pipeline (Spring Boot, Kafka, Hibernate, MySQL) powering downstream AI analytics with a <strong>35% throughput gain</strong> on healthcare claims processing at Fortune 3 scale.</li>
+        <li>Led Quarkus migration POC — <strong>70% startup time reduction</strong>, <strong>50% memory savings</strong>, enabling AI microservices to run on lean infra.</li>
+        <li>Built data validation and enrichment pipeline with schema enforcement, cutting data quality issues feeding into AI systems by <strong>40%</strong>.</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- PROJECTS -->
+  <div class="section avoid-break">
+    <div class="section-title">Projects</div>
+
+    <div class="project">
+      <span class="project-title">SafeRide — AI-Powered Ride Safety Platform</span>
+      <span class="project-badge">REAL-TIME AI</span>
+      <a href="https://saferide.co.in" style="font-size:9.5px;color:#888;margin-left:8px;">saferide.co.in</a>
+      <div class="project-desc">
+        Real-time risk scoring engine (FastAPI + Redis) processing <strong>10K+ ride events/minute</strong> with <strong>&lt;200ms p99 latency</strong> — demonstrates production real-time AI infra directly applicable to PolyAI's voice platform latency requirements. ML anomaly detection (94% accuracy) flags dangerous driving from live telemetry (GPS, accelerometer, gyroscope). NLP incident classification (fine-tuned BERT) auto-escalates high-risk events, cutting response time <strong>78% (18min → 4min)</strong>. GPT-4 driver coaching with personalized LLM-generated feedback → <strong>22% incident reduction</strong> in 30 days. Scaled to 8K+ active riders across 3 cities (4.7/5 safety satisfaction).
+      </div>
+      <div class="project-tech">FastAPI · Redis · GPT-4 API · BERT · Python · React · real-time event processing</div>
+    </div>
+
+    <div class="project">
+      <span class="project-title">Edge-Deployed AI Inference Platform</span>
+      <span class="project-badge">SELF-HOSTED LLM</span>
+      <a href="https://thepk.in" style="font-size:9.5px;color:#888;margin-left:8px;">thepk.in</a>
+      <div class="project-desc">
+        Self-hosted quantized Llama 3 (GGUF/4-bit via llama.cpp) on edge hardware — <strong>75% less memory</strong>, <strong>90% cheaper</strong> than cloud LLM APIs, <strong>&lt;500ms time-to-first-token</strong>, 99%+ uptime. Streaming inference API (FastAPI + token auth + rate limiting) with conversation memory for multi-turn chat. Containerized via Docker with prompt templating and context window management.
+      </div>
+      <div class="project-tech">llama.cpp · FastAPI · Docker · streaming inference · GGUF quantization</div>
+    </div>
+
+    <div class="project">
+      <span class="project-title">Self-Hosted Scalable AI Web Platform</span>
+      <span class="project-badge">PRODUCTION</span>
+      <a href="https://thepk.in" style="font-size:9.5px;color:#888;margin-left:8px;">thepk.in</a>
+      <div class="project-desc">
+        Full-stack AI platform (Next.js + FastAPI) for <strong>10K+ weekly users</strong> with LLM chat, AI image generation, and RAG-powered document Q&A. Self-hosted embedding search (FAISS), response caching, and GitHub Actions automated deployment with zero-downtime rolling deploys.
+      </div>
+      <div class="project-tech">Next.js · Python · FastAPI · FAISS · Docker · GitHub Actions · RAG</div>
+    </div>
+  </div>
+
+  <!-- EDUCATION -->
+  <div class="section avoid-break">
+    <div class="section-title">Education</div>
+    <div class="edu-item">
+      <div class="edu-header">
+        <span class="edu-title">M.S. Computer Science — <span class="edu-org">George Washington University</span></span>
+        <span class="edu-year">May 2025</span>
+      </div>
+      <div class="edu-desc">GPA: 3.8 · Washington, DC</div>
+    </div>
+  </div>
+
+  <!-- SKILLS -->
+  <div class="section avoid-break">
+    <div class="section-title">Technical Skills</div>
+    <div class="skills-grid">
+      <div class="skill-item"><span class="skill-category">Languages:</span> Python, Java, JavaScript/TypeScript, SQL, Bash</div>
+      <div class="skill-item"><span class="skill-category">AI &amp; Voice:</span> GPT-4/Claude/Gemini APIs, LLM Orchestration, RAG, LangChain, LlamaIndex, CrewAI, AutoGen, Guardrails AI, Function Calling, Prompt Engineering, Streaming Inference</div>
+      <div class="skill-item"><span class="skill-category">Vector &amp; Search:</span> Pinecone, ChromaDB, FAISS, Weaviate, pgvector, Elasticsearch, Embedding Optimization</div>
+      <div class="skill-item"><span class="skill-category">AI Infra:</span> Ollama, vLLM, llama.cpp, Model Quantization (GGUF/GPTQ/AWQ), Token Optimization, API Gateway Design</div>
+      <div class="skill-item"><span class="skill-category">Cloud &amp; DevOps:</span> AWS (Bedrock, Lambda, EC2, S3, SageMaker), GCP (Vertex AI), Docker, Kubernetes, CI/CD, GitHub Actions</div>
+      <div class="skill-item"><span class="skill-category">Frameworks &amp; Data:</span> FastAPI, Spring Boot, React, Next.js, Node.js, PostgreSQL, MongoDB, Redis, Kafka, REST APIs, Microservices</div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
