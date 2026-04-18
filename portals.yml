@@ -172,6 +172,36 @@ search_queries:
     query: '"Forward Deployed Engineer" OR "Deployed Engineer" OR "Deployment Engineer" AI site:job-boards.greenhouse.io OR site:jobs.ashbyhq.com OR site:jobs.lever.co'
     enabled: true
 
+  # -- US-specific high-signal queries --
+
+  - name: Lever — AI/LLM Engineer US
+    query: 'site:jobs.lever.co "AI Engineer" OR "LLM Engineer" OR "Applied AI" OR "ML Engineer" remote OR "San Francisco" OR "Bay Area"'
+    enabled: true
+
+  - name: Lever — Solutions & FDE US
+    query: 'site:jobs.lever.co "Solutions Engineer" OR "Forward Deployed" OR "Customer Engineer" AI remote OR "San Francisco" OR "New York"'
+    enabled: true
+
+  - name: Greenhouse — Backend AI Engineer US
+    query: 'site:job-boards.greenhouse.io "Backend Engineer" OR "Software Engineer" "AI" OR "LLM" OR "agents" remote OR "San Francisco" OR "Bay Area"'
+    enabled: true
+
+  - name: Ashby — Agentic Runtime & Infra
+    query: 'site:jobs.ashbyhq.com "Agentic" OR "Agent Runtime" OR "LLM Infrastructure" OR "AI Infrastructure" "Engineer" remote'
+    enabled: true
+
+  - name: YC S24/W25 — AI Engineer & FDE
+    query: 'site:workatastartup.com "AI Engineer" OR "Forward Deployed" OR "Founding Engineer" OR "Applied AI" 2024 OR 2025 remote'
+    enabled: true
+
+  - name: Greenhouse — AI Infra & LLMOps US
+    query: 'site:job-boards.greenhouse.io "LLMOps" OR "AI Platform" OR "Model Serving" OR "Inference" "Engineer" remote OR "San Francisco"'
+    enabled: true
+
+  - name: Ashby — Voice AI & Real-time US
+    query: 'site:jobs.ashbyhq.com "Voice AI" OR "Real-time AI" OR "Speech AI" OR "Streaming" "Engineer" OR "Solutions" remote'
+    enabled: true
+
   # -- Remote-friendly Europe boards --
 
   - name: Remotive — AI/DevRel/SA/FDE
@@ -893,4 +923,172 @@ tracked_companies:
     scan_method: websearch
     scan_query: '"Maxim AI" OR "getmaxim" careers "engineer" OR "product"'
     notes: "AI evaluation and observability platform. Bangalore-based, mostly on-site."
+    enabled: true
+
+  # -- US AI companies (Bay Area / remote-US) — Pradhyuman archetype matches --
+
+  - name: Scale AI
+    careers_url: https://job-boards.greenhouse.io/scaleai
+    api: https://boards-api.greenhouse.io/v1/boards/scaleai/jobs
+    notes: "SF. Data labeling + AI applications. Applied ML, Solutions Architect, FDE roles."
+    enabled: true
+
+  - name: Groq
+    careers_url: https://job-boards.greenhouse.io/groq
+    api: https://boards-api.greenhouse.io/v1/boards/groq/jobs
+    notes: "Mountain View CA. Ultra-fast LLM inference. Solutions Engineer, AI Engineer roles."
+    enabled: true
+
+  - name: Together AI
+    careers_url: https://jobs.ashbyhq.com/together
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/together OR "together.ai" "engineer" OR "solutions"'
+    notes: "SF. AI inference cloud, open model hosting. Engineer and SE roles."
+    enabled: true
+
+  - name: Fireworks AI
+    careers_url: https://jobs.ashbyhq.com/fireworks
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/fireworks OR "fireworks.ai" "engineer" OR "solutions"'
+    notes: "SF. Fast LLM inference API. Engineer and Solutions roles."
+    enabled: true
+
+  - name: Anyscale
+    careers_url: https://job-boards.greenhouse.io/anyscale
+    api: https://boards-api.greenhouse.io/v1/boards/anyscale/jobs
+    notes: "SF. Ray distributed AI compute platform. Solutions Architect, SE, AI Engineer."
+    enabled: true
+
+  - name: Modal Labs
+    careers_url: https://jobs.ashbyhq.com/modal
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/modal "engineer" OR "solutions" OR "developer"'
+    notes: "NYC/SF remote. Serverless AI compute. Engineer and DevRel roles."
+    enabled: true
+
+  - name: Replicate
+    careers_url: https://jobs.ashbyhq.com/replicate
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/replicate "engineer" OR "solutions"'
+    notes: "SF. Run AI models via API. Engineer and SE roles."
+    enabled: true
+
+  - name: Contextual AI
+    careers_url: https://jobs.ashbyhq.com/contextualai
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/contextualai OR "contextual.ai" "engineer" OR "solutions"'
+    notes: "SF. Enterprise RAG platform. AI/ML Engineer and Solutions roles."
+    enabled: true
+
+  - name: Harvey AI
+    careers_url: https://job-boards.greenhouse.io/harvey
+    api: https://boards-api.greenhouse.io/v1/boards/harvey/jobs
+    notes: "SF. AI for legal and professional services. FDE, Solutions, AI Engineer."
+    enabled: true
+
+  - name: Writer
+    careers_url: https://job-boards.greenhouse.io/writer
+    api: https://boards-api.greenhouse.io/v1/boards/writer/jobs
+    notes: "SF. Enterprise AI writing platform. FDE, Solutions Engineer, AI Engineer."
+    enabled: true
+
+  - name: Dust
+    careers_url: https://jobs.ashbyhq.com/dust
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/dust "engineer" OR "solutions" OR "forward deployed"'
+    notes: "SF/Paris. AI agent platform for enterprises. FDE and Engineering roles."
+    enabled: true
+
+  - name: Letta (MemGPT)
+    careers_url: https://jobs.ashbyhq.com/letta
+    scan_method: websearch
+    scan_query: '"letta.ai" OR "memgpt" "engineer" OR "solutions" site:jobs.ashbyhq.com OR site:workatastartup.com'
+    notes: "SF. Agent memory and stateful AI. YC-backed. Engineer and FDE roles."
+    enabled: true
+
+  - name: Cognition AI
+    careers_url: https://jobs.ashbyhq.com/cognition
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/cognition "engineer" OR "solutions"'
+    notes: "SF. Devin AI coding agent. Engineer roles."
+    enabled: true
+
+  - name: Windsurf (Codeium)
+    careers_url: https://jobs.ashbyhq.com/codeium
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/codeium OR "codeium.com" "engineer" OR "solutions"'
+    notes: "Mountain View CA. AI coding assistant. Engineer and Solutions roles."
+    enabled: true
+
+  - name: Databricks
+    careers_url: https://job-boards.greenhouse.io/databricks
+    api: https://boards-api.greenhouse.io/v1/boards/databricks/jobs
+    notes: "SF. LLM + data lakehouse platform. AI Engineer, Solutions Architect, FDE."
+    enabled: true
+
+  - name: Snowflake
+    careers_url: https://job-boards.greenhouse.io/snowflake
+    api: https://boards-api.greenhouse.io/v1/boards/snowflake/jobs
+    notes: "San Mateo CA. AI/ML data cloud. Solutions Engineer, AI Engineer, FDE roles."
+    enabled: true
+
+  - name: Replit
+    careers_url: https://jobs.ashbyhq.com/replit
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/replit "engineer" OR "solutions" OR "developer"'
+    notes: "SF. AI-powered coding environment. Engineer and DevRel roles."
+    enabled: true
+
+  - name: Weaviate
+    careers_url: https://jobs.ashbyhq.com/weaviate
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/weaviate "engineer" OR "solutions"'
+    notes: "Remote US. Vector DB for AI. Solutions Engineer, AI Engineer."
+    enabled: true
+
+  - name: Qdrant
+    careers_url: https://jobs.ashbyhq.com/qdrant
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/qdrant OR "qdrant.tech" "engineer" OR "solutions"'
+    notes: "Remote. Vector search engine. Engineer and SE roles."
+    enabled: true
+
+  - name: LlamaIndex
+    careers_url: https://jobs.ashbyhq.com/llamaindex
+    scan_method: websearch
+    scan_query: '"llamaindex" OR "llamacloud" "engineer" OR "solutions" site:jobs.ashbyhq.com OR site:workatastartup.com'
+    notes: "SF. LlamaIndex/LlamaCloud RAG framework. Engineer and SE roles."
+    enabled: true
+
+  - name: CrewAI
+    careers_url: https://jobs.ashbyhq.com/crewai
+    scan_method: websearch
+    scan_query: '"crewai" "engineer" OR "solutions" OR "forward deployed" site:jobs.ashbyhq.com OR site:workatastartup.com'
+    notes: "SF. Multi-agent AI orchestration framework. FDE and Engineer roles."
+    enabled: true
+
+  - name: ServiceNow
+    careers_url: https://job-boards.greenhouse.io/servicenow
+    api: https://boards-api.greenhouse.io/v1/boards/servicenow/jobs
+    notes: "Santa Clara CA. Enterprise AI workflow automation. AI Engineer, Solutions Consultant."
+    enabled: true
+
+  - name: Cursor
+    careers_url: https://jobs.ashbyhq.com/cursor
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/cursor "engineer" OR "solutions" OR "developer"'
+    notes: "SF. AI code editor. Engineer and DevRel roles."
+    enabled: true
+
+  - name: Comet ML
+    careers_url: https://job-boards.greenhouse.io/cometml
+    api: https://boards-api.greenhouse.io/v1/boards/cometml/jobs
+    notes: "Remote US. MLOps / LLM observability. Solutions Engineer, AI Engineer."
+    enabled: true
+
+  - name: Neon
+    careers_url: https://jobs.ashbyhq.com/neon
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/neon "engineer" OR "solutions" OR "developer"'
+    notes: "Remote. Serverless Postgres. Developer success and engineering roles."
     enabled: true
