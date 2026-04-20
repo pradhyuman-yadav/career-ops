@@ -8,14 +8,14 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [x] ALREADY_EVALUATED | https://jobs.ashbyhq.com/vapi/adbc573f-7267-491e-8671-4d5470238aae | Vapi | Agent Strategist
 - [x] ALREADY_EVALUATED | https://jobs.ashbyhq.com/vapi/a69077ea-c968-42ae-bb74-bd782c790211 | Vapi | Agent Engineer
 - [x] ALREADY_EVALUATED | https://jobs.ashbyhq.com/vapi/7adb10b2-1234-4e4c-b132-f990a91de048 | Vapi | Agent Engineer - NY
-- [ ] https://jobs.ashbyhq.com/bland/804fbd27-027e-4de5-8a6f-77241a65e599 | Bland AI | Customer Engineer
+- [x] #035 | https://jobs.ashbyhq.com/bland/804fbd27-027e-4de5-8a6f-77241a65e599 | Bland AI | Customer Engineer | 3.5/5 | PDF ❌
 - [x] ALREADY_EVALUATED | https://jobs.ashbyhq.com/bland/823904dd-f958-45c8-8e9a-4d9755cd03f0 | Bland AI | Forward Deployed Engineer
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/humeai/jobs/4775962008 | Hume AI | AI Researcher
 - [!] SKIP (title) | https://job-boards.greenhouse.io/humeai/jobs/4856037008 | Hume AI | Product Manager, Growth
 - [x] ALREADY_EVALUATED | https://job-boards.greenhouse.io/humeai/jobs/5064248008 | Hume AI | Senior Platform Engineer
 - [!] SKIP (archetype-mismatch) | https://job-boards.eu.greenhouse.io/polyai/jobs/4802138101 | PolyAI | Agent Designer
 - [!] SKIP (title) | https://job-boards.eu.greenhouse.io/polyai/jobs/4831089101 | PolyAI | Agent Design Manager
-- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4796935101 | PolyAI | Forward Deployed AI Engineer (Must be PST timezone)
+- [x] #036 | https://job-boards.eu.greenhouse.io/polyai/jobs/4796935101 | PolyAI | Forward Deployed AI Engineer (Must be PST timezone) | 4.2/5 | PDF ❌
 - [!] SKIP (location) | https://job-boards.eu.greenhouse.io/polyai/jobs/4828162101 | PolyAI | Gulf Arabic/Bahraini Language Specialist - Part time contract (Must be based in UK)
 - [!] SKIP (location) | https://job-boards.eu.greenhouse.io/polyai/jobs/4658649101 | PolyAI | Senior Full Stack Engineer  (Must be based in UK)
 - [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4822441101 | PolyAI | Senior Partner Solutions Engineer
@@ -28,17 +28,17 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [!] SKIP (EU-primary co) | https://job-boards.eu.greenhouse.io/parloa/jobs/4782800101 | Parloa | Senior AI Agent Architect
 - [!] SKIP (EU-primary co) | https://job-boards.eu.greenhouse.io/parloa/jobs/4751509101 | Parloa | Senior Forward Deployed Engineer
 - [!] SKIP (location) | https://job-boards.eu.greenhouse.io/parloa/jobs/4747267101 | Parloa | Senior Forward Deployed Engineer - UK
-- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4604587101 | Parloa | Senior/Lead Forward Deployed Engineer - US
+- [x] #037 | https://job-boards.eu.greenhouse.io/parloa/jobs/4604587101 | Parloa | Senior/Lead Forward Deployed Engineer - US | 3.2/5 | PDF ❌
 - [!] SKIP (title) | https://job-boards.eu.greenhouse.io/parloa/jobs/4786707101 | Parloa | Senior Partnerships Manager - Spain/Italy 
 - [!] SKIP (EU-primary co) | https://job-boards.eu.greenhouse.io/parloa/jobs/4843556101 | Parloa | Software Engineer, GTM
 - [!] SKIP (title) | https://job-boards.greenhouse.io/intercom/jobs/7609852 | Intercom | Account Executive, Emerging AI Products
 - [!] SKIP (archetype-mismatch) | https://job-boards.greenhouse.io/intercom/jobs/7807509 | Intercom | Business Development Representative, Emerging AI Products 
 - [!] SKIP (title) | https://job-boards.greenhouse.io/intercom/jobs/7818585 | Intercom | Engineering Manager, AI Models Infrastructure
 - [!] SKIP (title) | https://job-boards.greenhouse.io/intercom/jobs/7765466 | Intercom | Engineering Manager, Forward Deployed Engineering
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7556413 | Intercom | Forward Deployed Software Engineer
+- [x] #039 | https://job-boards.greenhouse.io/intercom/jobs/7556413 | Intercom | Forward Deployed Software Engineer | 4.0/5 | PDF ❌
 - [!] SKIP (archetype-mismatch) | https://job-boards.greenhouse.io/intercom/jobs/7524848 | Intercom | GTM Data Analyst - Integrated Campaigns
 - [!] SKIP (title) | https://job-boards.greenhouse.io/intercom/jobs/7644731 | Intercom | Manager, Solutions Engineering (Mid-Market & Enterprise) 
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7774407 | Intercom | Senior AI Deployment Architect
+- [x] #040 | https://job-boards.greenhouse.io/intercom/jobs/7774407 | Intercom | Senior AI Deployment Architect | 3.6/5 | PDF ❌
 - [!] SKIP (title) | https://job-boards.greenhouse.io/intercom/jobs/7464294 | Intercom | Senior AI Product Manager
 - [!] SKIP (archetype-mismatch) | https://job-boards.greenhouse.io/intercom/jobs/7314809 | Intercom | Senior Data Scientist - AI Tooling
 - [!] SKIP (archetype-mismatch) | https://job-boards.greenhouse.io/intercom/jobs/7606638 | Intercom | Senior Data Scientist AI Tooling
@@ -56,10 +56,10 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [!] SKIP (title) | https://job-boards.greenhouse.io/intercom/jobs/6758904 | Intercom | Senior Product Manager, Web (Narrative/Content) 
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/intercom/jobs/5082494 | Intercom | Senior Software Engineer
 - [x] #059 | https://job-boards.greenhouse.io/intercom/jobs/7262006 | Intercom | Senior Solutions Architect | 2.8/5 | PDF ❌
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7594453 | Intercom | Senior Solutions Engineer
+- [x] #041 | https://job-boards.greenhouse.io/intercom/jobs/7594453 | Intercom | Senior Solutions Engineer | 3.4/5 | PDF ❌
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7371989 | Intercom | Software Engineer
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7426411 | Intercom | Solutions Architect
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/6849119 | Intercom | Solutions Engineer
+- [x] #042 | https://job-boards.greenhouse.io/intercom/jobs/6849119 | Intercom | Solutions Engineer | 3.6/5 | PDF ❌
 - [!] SKIP (location) | https://job-boards.greenhouse.io/intercom/jobs/7593406 | Intercom | Solutions Engineer - LATAM (Portuguese Speaking)
 - [!] SKIP (archetype-mismatch) | https://job-boards.greenhouse.io/anthropic/jobs/5183044008 | Anthropic | Anthropic Fellows Program — AI Safety
 - [!] SKIP (archetype-mismatch) | https://job-boards.greenhouse.io/anthropic/jobs/5030244008 | Anthropic | Anthropic Fellows Program — AI Security
@@ -361,7 +361,7 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [!] SKIP (low-fit) | https://jobs.ashbyhq.com/decagon/060b5fd4-9962-491f-8116-4faa778500d7 | Decagon | Enterprise Solutions Engineer - LATAM
 - [ ] https://jobs.ashbyhq.com/n8n/788662b7-6b2b-4b07-b466-bf131fd95d08 | n8n | Senior Solutions Engineer | East Coast - Remote
 - [ ] https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297 | n8n | Sr AI Engineer | Remote - Europe | TS/Vue/NodeJS
-- [ ] https://jobs.ashbyhq.com/n8n/53da0231-00c9-4aae-80e3-16d3a93c3381 | n8n | Senior Solutions Engineer | West Coast - Remote
+- [x] #038 | https://jobs.ashbyhq.com/n8n/53da0231-00c9-4aae-80e3-16d3a93c3381 | n8n | Senior Solutions Engineer | West Coast - Remote | 3.3/5 | PDF ❌
 - [!] SKIP (title) | https://jobs.ashbyhq.com/langchain/729b3249-5b5e-4806-b838-1c631700ea9b | LangChain | Talent Systems and Recruiting Automation Lead
 - [ ] https://jobs.ashbyhq.com/langchain/afb91b9b-46d5-4c9d-aa84-a4f1a3f74263 | LangChain | Senior Frontend Engineer, AI Observability & Evals Platform 
 - [!] SKIP (title) | https://jobs.ashbyhq.com/langchain/e1263bfe-b638-4019-b4d5-0aacca93b2b3 | LangChain | Software Engineering Manager, AI Observability & Evals Platform (New York, NY)
