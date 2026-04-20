@@ -1019,3 +1019,67 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [!] SKIP (EU-primary co) | https://job-boards.eu.greenhouse.io/speechmatics/jobs/4750378101 | Speechmatics | Software Engineer
 - [!] SKIP (EU-primary co) | https://job-boards.eu.greenhouse.io/speechmatics/jobs/4834542101 | Speechmatics | Software Engineer - FutureVoices
 - [!] SKIP (EU-primary co) | https://job-boards.eu.greenhouse.io/speechmatics/jobs/4823688101 | Speechmatics | Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/Concentrate%20AI/29f92690-d97d-4c39-b82b-f998b6a3db7c | Concentrate AI | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/pareto-ai/911f9f26-cff1-4383-a8d1-a9c243972548 | Pareto.AI | Forward Deployed Software Engineer
+- [ ] https://jobs.ashbyhq.com/happyrobot.ai/9b99c0bc-6f1b-4ad1-85f3-b7a6edf71102/application | HappyRobot | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/brightai/jobs/5616545004 | BrightAI Corporation | Senior AI Engineer – LLM, RAG
+- [ ] https://job-boards.greenhouse.io/evolutioniq/jobs/5751888004 | EvolutionIQ | Senior AI/ML Engineer (LLMs)
+- [ ] https://job-boards.greenhouse.io/evolutioniq/jobs/5741722004 | EvolutionIQ | Senior Software Engineer (AI / LLM)
+- [ ] https://job-boards.greenhouse.io/natera/jobs/5744120004 | Natera | Senior AI/ML Engineer
+- [ ] https://jobs.ashbyhq.com/go-nimbly/f5ef4572-c020-4a81-817f-ea10396d0d57 | Go Nimbly | RevOps Solutions Architect
+- [ ] https://jobs.ashbyhq.com/baseten/c64515f9-a8f7-4633-9340-17cda56b1ef0 | Baseten | Solution Architect
+- [ ] https://jobs.ashbyhq.com/openai/6bacc51d-6580-4089-93ca-7df3bce4b635/application | OpenAI | Solutions Architect, Generative AI Deployment
+- [ ] https://jobs.ashbyhq.com/openai/83730f3e-3a96-476e-afb0-15f1f045ab03/application | OpenAI | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/openai/71e7252f-abb1-4b74-8e69-318413042357/application | OpenAI | Solutions Architect, Startups
+- [ ] https://jobs.lever.co/wandb/6556a88d-d9a3-4035-ad12-cd16f7be3bca | Weights & Biases | AI Engineer, GenAI Enterprise Accelerator
+- [ ] https://jobs.lever.co/Arcade/abdc67cd-bc00-4e7b-a402-611e85211655 | Arcade | AI Software Engineer
+- [ ] https://jobs.lever.co/collate/377f2cf3-6285-42c1-8130-dd3dd2c866cb | Collate | AI Engineer
+- [ ] https://jobs.lever.co/smart-working-solutions/7769e501-d8bc-44c7-b00d-5081334c147c | Smart Working Solutions | LLM Engineer
+- [ ] https://jobs.lever.co/caremessage/d371855f-83ab-4b42-9d98-5bd030f15f6c | CareMessage | Senior AI/ML Engineer
+- [ ] https://jobs.lever.co/bpmcpa/2e27ddc6-ba40-4807-9e61-09e76fc48263 | BPM LLP | AI/ML Engineer
+- [ ] https://job-boards.greenhouse.io/workato/jobs/8112909002 | Workato | Software Engineer - Developer Products (AI)
+- [ ] https://jobs.ashbyhq.com/Mintlify/5c8d7302-6c94-429d-a3ff-bd38a71ea2d3 | Mintlify | Backend AI Engineer
+- [ ] https://jobs.lever.co/aircall/f7eef342-5593-4d3c-9a7c-1259182e1482 | Aircall | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/aircall/ced85f57-e8da-4788-b839-a7fcba9ec7f1 | Aircall | Forward Deployed Engineer - San Francisco
+- [ ] https://jobs.lever.co/aircall/4965256f-b814-46a5-b6f6-e83bec714120 | Aircall | Forward Deployed Engineer - New York
+- [ ] https://jobs.lever.co/CordTechnologies/13528d86-c569-4351-ad5b-90e12f4ada00 | Encord | Solutions Engineer - US (San Francisco)
+- [ ] https://jobs.lever.co/field-ai/6fc39622-b8e9-4aab-804a-b5fc61549dc0 | FieldAI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/openai/c1316397-25bb-4add-9e9d-0e3ea8ba929a/application | OpenAI | Software Engineer, Agent Infrastructure
+- [ ] https://jobs.ashbyhq.com/revenuecat/998a9cef-3ea5-45c2-885b-8a00c4eeb149 | RevenueCat | Agentic AI Advocate
+- [ ] https://jobs.ashbyhq.com/a-place-for-mom/7d202fc1-9a58-44ae-b119-15bf48706d62 | A Place for Mom | Senior Software Engineer, Agentic Platform
+- [ ] https://jobs.ashbyhq.com/Varick-Agents/30e16a2a-6374-475d-9154-2e186c481319/application | Varick Agents | AI Engineer
+- [ ] https://jobs.ashbyhq.com/permitflow/08b96a9a-b344-42cc-8c69-a1c1e0babb90 | PermitFlow | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/auctor/ca5b0c44-cafb-48ad-99fa-84aa3cfc5179 | Auctor | Software Engineer, Applied AI
+- [ ] https://jobs.ashbyhq.com/naptha/e936b1c5-2ecd-453e-a4bc-14c15c5e561a | Naptha AI | AI Agent Engineer
+- [ ] https://jobs.ashbyhq.com/generalintelligencecompany/4bc5d479-3bba-432d-887f-423847aa650a | General Intelligence Company NY | Applied AI Engineer - Agent
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7059734 | Twilio | Machine Learning Engineer
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4687884007 | Together AI | LLM Inference Frameworks and Optimization Engineer
+- [ ] https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7516824 | Recursion | Senior AI Engineer
+- [ ] https://job-boards.greenhouse.io/robotsandpencils/jobs/5126514008 | Robots and Pencils | AI Engineer / AI Architect
+- [ ] https://job-boards.greenhouse.io/lirio/jobs/7649081003 | Lirio | Senior AI Platform Engineer
+- [ ] https://job-boards.greenhouse.io/affinity/jobs/7664587003 | Affinity.co | Senior Machine Learning Engineer, AI Platform
+- [ ] https://job-boards.greenhouse.io/robotsandpencils/jobs/5126523008 | Robots and Pencils | AI Engineer
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4534631005 | Scale AI | ML Research Engineer, ML Systems
+- [ ] https://jobs.ashbyhq.com/generalrobotics/eb20207f-f021-4b78-9454-bd1b7355ae83 | General Robotics | Forward Deployed Engineer (AI)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651991005 | Glean | Founding Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/mercura/c3311550-1d26-46fb-8439-9a74805ad943 | Mercura | Forward Deployed Engineer (FDE)
+- [ ] https://jobs.ashbyhq.com/synthflow/5e7b11f1-b915-46f2-bab4-ec2782118373 | Synthflow AI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/mercor/b0f12b3f-91ae-4b9e-ad0b-ed0299f80554 | Mercor | Forward Deployed Engineer
+- [ ] https://www.workatastartup.com/jobs/77473 | FurtherAI | Forward Deployed Engineer
+- [ ] https://www.workatastartup.com/jobs/87890 | Dot | Forward Deployed AI Engineer (remote)
+- [ ] https://www.workatastartup.com/jobs/74608 | Extend | Forward Deployed Engineer
+- [ ] https://www.workatastartup.com/jobs/79989 | Novoflow | Founding Forward Deployed Engineer
+- [ ] https://www.workatastartup.com/jobs/74124 | Strada | Founding Forward Deployed Engineer
+- [ ] https://www.workatastartup.com/jobs/71033 | StackAI | Forward Deployed AI Engineer
+- [ ] https://www.workatastartup.com/jobs/79851 | Retell AI | Senior Software Engineer, Infrastructure
+- [ ] https://www.workatastartup.com/jobs/71915 | HappyRobot | Forward Deployed Engineer
+- [ ] https://www.workatastartup.com/jobs/78325 | Giga | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4206045009 | Ōura | Senior AI Scientist
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8104727002 | Calendly | Senior Backend Engineer, AI Platform
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8104677002 | Calendly | Backend Engineer, AI Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174757008 | Anthropic | Software Engineer, Backend
+- [ ] https://job-boards.greenhouse.io/merge/jobs/5592469004 | Merge API | Software Engineer
+- [ ] https://job-boards.greenhouse.io/remesh/jobs/8450776002 | Remesh | Software Engineer
+- [ ] https://job-boards.greenhouse.io/remotepeople/jobs/4843110101 | Remote People | AI Engineer
+- [ ] https://careers.servicenow.com/jobs/744000116702082/forward-deployed-solution-engineer-applied-ai-fde/ | ServiceNow | Forward Deployed Solution Engineer – Applied AI (FDE)
+- [ ] https://jobs.ashbyhq.com/viktor/7609d5af-651d-41ac-8348-13ad22c6dbc9/application | Viktor | Software Engineer
