@@ -263,11 +263,11 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [ ] https://jobs.ashbyhq.com/sierra/d77487f9-bab3-44c6-be18-744e7125c8b3 | Sierra | Software Engineer, Platform
 - [!] SKIP (title) | https://jobs.ashbyhq.com/sierra/422cb7bb-ab03-447b-808c-6d72f59bbd2f | Sierra | Product Manager, Agent Data Platform
 - [!] SKIP (title) | https://jobs.ashbyhq.com/sierra/effd7cd2-8a28-4bae-a3b8-40720ba09717 | Sierra | Product Manager, Agent Development
-- [ ] https://jobs.ashbyhq.com/sierra/b7d1dbcd-ca72-472f-b15e-5b4b0f886be0 | Sierra | Software Engineer, Agent
+- [x] #051 | https://jobs.ashbyhq.com/sierra/b7d1dbcd-ca72-472f-b15e-5b4b0f886be0 | Sierra | Software Engineer, Agent | 3.8/5 | PDF ❌
 - [!] SKIP (title) | https://jobs.ashbyhq.com/sierra/fed8ca9a-0bb7-44ef-a541-0be6a8ae7bba | Sierra | Product Manager, Agent Development (German speaking)
-- [ ] https://jobs.ashbyhq.com/sierra/b3829801-8e0b-4047-8cd8-8a51c87028fd | Sierra | Software Engineer, Agent Architecture
+- [x] #053 | https://jobs.ashbyhq.com/sierra/b3829801-8e0b-4047-8cd8-8a51c87028fd | Sierra | Software Engineer, Agent Architecture | 3.7/5 | PDF ❌
 - [ ] https://jobs.ashbyhq.com/sierra/f391b10c-7a4a-42b4-9887-dd32b31d6e4e | Sierra | Software Engineer, Frontend
-- [ ] https://jobs.ashbyhq.com/sierra/f4319197-e898-4756-a7f2-af884fe1e0c7 | Sierra | Software Engineer, Intelligence
+- [x] #052 | https://jobs.ashbyhq.com/sierra/f4319197-e898-4756-a7f2-af884fe1e0c7 | Sierra | Software Engineer, Intelligence | 3.6/5 | PDF ❌
 - [!] SKIP (archetype-mismatch) | https://jobs.ashbyhq.com/sierra/548eccd8-85c7-4cfa-a145-1c6ba5c17dc2 | Sierra | Strategist, Agent Development
 - [!] SKIP (title) | https://jobs.ashbyhq.com/sierra/38f06024-4ee9-47d6-a36f-f2791ac1e412 | Sierra | Product Manager, Agent Development (French speaking)
 - [!] SKIP (title) | https://jobs.ashbyhq.com/sierra/4892f01e-8871-4b32-8963-527f1cf8db5d | Sierra | Product Manager, Agent Development (Spanish speaking)
@@ -312,13 +312,13 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [!] SKIP (title) | https://job-boards.greenhouse.io/vercel/jobs/5843010004 | Vercel | Anti-Abuse Automation Engineer
 - [!] SKIP (title) | https://job-boards.greenhouse.io/vercel/jobs/5829980004 | Vercel | Engineering Manager, AI Gateway
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5778418004 | Vercel | Forward-Deployed Engineer
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5872425004 | Vercel | Forward Deployed Engineer, v0
+- [x] #054 | https://job-boards.greenhouse.io/vercel/jobs/5872425004 | Vercel | Forward Deployed Engineer, v0 | 4.2/5 | PDF ❌
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5752684004 | Vercel | Forward-Deployed Engineer 
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5777645004 | Vercel | GTM Engineer 
 - [!] SKIP (title) | https://job-boards.greenhouse.io/vercel/jobs/5806456004 | Vercel | Manager, Solutions Architecture
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/vercel/jobs/5553789004 | Vercel | Senior Partner Solutions Engineer
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/vercel/jobs/5788954004 | Vercel | Senior Software Engineer, Trust & Safety
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5704321004 | Vercel | Software Engineer, Agent
+- [x] #055 | https://job-boards.greenhouse.io/vercel/jobs/5704321004 | Vercel | Software Engineer, Agent | 3.2/5 | PDF ❌
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5474915004 | Vercel | Software Engineer, AI SDK
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5431123004 | Vercel | Software Engineer, Backend
