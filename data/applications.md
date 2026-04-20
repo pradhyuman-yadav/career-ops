@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 85 | 2026-04-20 | Intercom | Forward Deployed Software Engineer | 4.0/5 | Evaluated | ❌ | [039](reports/039-intercom-fde-2026-04-20.md) | Strong FDE fit; SF hybrid (San Jose qualifies); $140K-$185K est base; no domain gap blockers — APPLY RECOMMENDED |
+| 86 | 2026-04-20 | Intercom | Solutions Engineer | 3.6/5 | Evaluated | ❌ | [042](reports/042-intercom-se-2026-04-20.md) | Mid-level SE; older posting (evergreen likely); $150K+ OTE; pre-sales gap but 3yr bar more attainable — APPLY RECOMMENDED |
 | 81 | 2026-04-20 | Bland AI | Customer Engineer | 3.5/5 | Evaluated | ❌ | [035](reports/035-bland-ai-2026-04-20.md) | Support/deployment hybrid at Series B voice AI co; borderline fit — apply if specifically targeting voice AI support engineering |
 | 82 | 2026-04-20 | PolyAI | Forward Deployed AI Engineer | 4.2/5 | Evaluated | ❌ | [036](reports/036-polyai-2026-04-20.md) | Strong FDE archetype match; $750M funded; VoIP gap manageable — APPLY RECOMMENDED |
 | 83 | 2026-04-20 | Parloa | Senior/Lead Forward Deployed Engineer - US | 3.2/5 | Evaluated | ❌ | [037](reports/037-parloa-2026-04-20.md) | Seniority stretch (4+ yrs required); $3B co with $225-$335K comp; borderline — review before applying |
@@ -27,7 +29,7 @@
 | 48 | 2026-04-20 | LangChain | Deployed Engineer (San Francisco) | 4.8/5 | Evaluated | ❌ | [071](reports/071-langchain-deployed-engineer-san-francisco-2026-04-20.md) | Re-eval 2026-04-20 (4.6→4.8). APPLY RECOMMENDED — highest fit in batch, exact LangChain stack match, SF local; note: previously evaluated as #048 (4.6/5) |
 | 49 | 2026-04-20 | Lovable | Engineer, Agents & Evals | 2.8/5 | Evaluated | ❌ | [049](reports/049-lovable-engineer-agents-evals-2026-04-20.md) | SKIP — Stockholm-based; SEK comp below floor; verify US remote before reconsidering |
 | 50 | 2026-04-20 | Hightouch | Software Engineer, AI Agents | 4.4/5 | Evaluated | ❌ | [050](reports/050-hightouch-software-engineer-ai-agents-2026-04-20.md) | Excellent fit — remote US, $180K-320K, no coding interviews; APPLY RECOMMENDED |
-| 59 | 2026-04-20 | Intercom | Senior Solutions Architect | 2.8/5 | Evaluated | ❌ | [059](reports/059-intercom-senior-solutions-architect-2026-04-20.md) | SKIP — 6+ YOE gap, Senior bar too high, no CX domain fit |
+| 59 | 2026-04-20 | Intercom | Senior AI Deployment Architect | 3.6/5 | Evaluated | ❌ | [040](reports/040-intercom-ai-architect-2026-04-20.md) | Re-eval 2026-04-20 (2.8→3.6). PS role; $157K-$188K base; CS domain gap manageable; apply if open to post-sales implementation track — APPLY RECOMMENDED |
 | 60 | 2026-04-20 | LangChain | Solutions Architect (SF) | 4.1/5 | Evaluated | ❌ | [060](reports/060-langchain-solutions-architect-sf-2026-04-20.md) | APPLY RECOMMENDED — direct LangChain production user, RAG/multi-agent enterprise proof |
 | 61 | 2026-04-20 | LangChain | Solutions Architect (Remote) | 4.2/5 | Evaluated | ❌ | [061](reports/061-langchain-solutions-architect-remote-2026-04-20.md) | APPLY RECOMMENDED — best in batch; startup exit + LangChain production + remote eligible |
 | 62 | 2026-04-20 | Cohere | Solutions Architect (SF) | 3.4/5 | Evaluated | ❌ | [062](reports/062-cohere-solutions-architect-sf-2026-04-20.md) | borderline — verify OPT/H-1B sponsorship for SA roles at Canadian HQ before applying |
