@@ -18,7 +18,7 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [x] #036 | https://job-boards.eu.greenhouse.io/polyai/jobs/4796935101 | PolyAI | Forward Deployed AI Engineer (Must be PST timezone) | 4.2/5 | PDF ❌
 - [!] SKIP (location) | https://job-boards.eu.greenhouse.io/polyai/jobs/4828162101 | PolyAI | Gulf Arabic/Bahraini Language Specialist - Part time contract (Must be based in UK)
 - [!] SKIP (location) | https://job-boards.eu.greenhouse.io/polyai/jobs/4658649101 | PolyAI | Senior Full Stack Engineer  (Must be based in UK)
-- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4822441101 | PolyAI | Senior Partner Solutions Engineer
+- [!] https://job-boards.eu.greenhouse.io/polyai/jobs/4822441101 | PolyAI | Senior Partner Solutions Engineer
 - [!] SKIP (EU-primary co) | https://job-boards.eu.greenhouse.io/parloa/jobs/4694431101 | Parloa | Forward Deployed Engineer, DevOps
 - [!] SKIP (EU-primary co) | https://job-boards.eu.greenhouse.io/parloa/jobs/4825141101 | Parloa | Forward Deployed Engineer, VoIP
 - [!] SKIP (title) | https://job-boards.eu.greenhouse.io/parloa/jobs/4784741101 | Parloa | GSI Partnerships Manager -  (Conversational AI & Agentic AI)
@@ -42,14 +42,14 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [!] SKIP (title) | https://job-boards.greenhouse.io/intercom/jobs/7464294 | Intercom | Senior AI Product Manager
 - [!] SKIP (archetype-mismatch) | https://job-boards.greenhouse.io/intercom/jobs/7314809 | Intercom | Senior Data Scientist - AI Tooling
 - [!] SKIP (archetype-mismatch) | https://job-boards.greenhouse.io/intercom/jobs/7606638 | Intercom | Senior Data Scientist AI Tooling
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/6949785 | Intercom | Senior Engineer, AI Developer
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7462098 | Intercom | Senior Forward Deployed Engineer
+- [x] https://job-boards.greenhouse.io/intercom/jobs/6949785 | Intercom | Senior Engineer, AI Developer
+- [x] https://job-boards.greenhouse.io/intercom/jobs/7462098 | Intercom | Senior Forward Deployed Engineer
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/intercom/jobs/7274831 | Intercom | Senior Full Stack Engineer - Team Web
 - [!] SKIP (title) | https://job-boards.greenhouse.io/intercom/jobs/7763257 | Intercom | Senior Manager, Forward Deployed Engineering
 - [!] SKIP (title) | https://job-boards.greenhouse.io/intercom/jobs/7411373 | Intercom | Senior ML Science Manager
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7371924 | Intercom | Senior Product Engineer, AI
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/6466001 | Intercom | Senior Product Engineer - AI Platform
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7382846 | Intercom | Senior Product Engineer, AI Platform
+- [!] https://job-boards.greenhouse.io/intercom/jobs/7371924 | Intercom | Senior Product Engineer, AI
+- [!] https://job-boards.greenhouse.io/intercom/jobs/6466001 | Intercom | Senior Product Engineer - AI Platform
+- [!] https://job-boards.greenhouse.io/intercom/jobs/7382846 | Intercom | Senior Product Engineer, AI Platform
 - [!] SKIP (title) | https://job-boards.greenhouse.io/intercom/jobs/7371973 | Intercom | Senior Product Manager
 - [!] SKIP (title) | https://job-boards.greenhouse.io/intercom/jobs/5663720 | Intercom | Senior Product Manager 
 - [!] SKIP (title) | https://job-boards.greenhouse.io/intercom/jobs/7511861 | Intercom | Senior Product Manager, Web 
@@ -57,8 +57,8 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/intercom/jobs/5082494 | Intercom | Senior Software Engineer
 - [x] #059 | https://job-boards.greenhouse.io/intercom/jobs/7262006 | Intercom | Senior Solutions Architect | 2.8/5 | PDF ❌
 - [x] #041 | https://job-boards.greenhouse.io/intercom/jobs/7594453 | Intercom | Senior Solutions Engineer | 3.4/5 | PDF ❌
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7371989 | Intercom | Software Engineer
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7426411 | Intercom | Solutions Architect
+- [!] https://job-boards.greenhouse.io/intercom/jobs/7371989 | Intercom | Software Engineer
+- [x] https://job-boards.greenhouse.io/intercom/jobs/7426411 | Intercom | Solutions Architect
 - [x] #042 | https://job-boards.greenhouse.io/intercom/jobs/6849119 | Intercom | Solutions Engineer | 3.6/5 | PDF ❌
 - [!] SKIP (location) | https://job-boards.greenhouse.io/intercom/jobs/7593406 | Intercom | Solutions Engineer - LATAM (Portuguese Speaking)
 - [!] SKIP (archetype-mismatch) | https://job-boards.greenhouse.io/anthropic/jobs/5183044008 | Anthropic | Anthropic Fellows Program — AI Safety
@@ -115,7 +115,7 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [!] SKIP (title) | https://job-boards.greenhouse.io/anthropic/jobs/5183006008 | Anthropic | Senior Product Manager, Education Labs
 - [!] SKIP (archetype-mismatch) | https://job-boards.greenhouse.io/anthropic/jobs/5108521008 | Anthropic | Senior Security Software Engineer, eBPF & Security Sensors
 - [!] SKIP (archetype-mismatch) | https://job-boards.greenhouse.io/anthropic/jobs/4641822008 | Anthropic | Senior Software Engineer, Inference
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4981828008 | Anthropic | Senior+ Software Engineer, Research Tools
+- [!] https://job-boards.greenhouse.io/anthropic/jobs/4981828008 | Anthropic | Senior+ Software Engineer, Research Tools
 - [!] SKIP (archetype-mismatch) | https://job-boards.greenhouse.io/anthropic/jobs/4915842008 | Anthropic | Senior Software Engineer, Systems
 - [!] SKIP (archetype-mismatch) | https://job-boards.greenhouse.io/anthropic/jobs/5123039008 | Anthropic | Software Engineer, Account Abuse
 - [!] SKIP (archetype-mismatch) | https://job-boards.greenhouse.io/anthropic/jobs/4982198008 | Anthropic | Software Engineer, Business Technology 
@@ -133,7 +133,7 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [!] SKIP (archetype-mismatch) | https://job-boards.greenhouse.io/anthropic/jobs/5083039008 | Anthropic | Software Engineer, Sandboxing
 - [!] SKIP (archetype-mismatch) | https://job-boards.greenhouse.io/anthropic/jobs/5025591008 | Anthropic | Software Engineer, Sandboxing (Systems)
 - [!] SKIP (archetype-mismatch) | https://job-boards.greenhouse.io/anthropic/jobs/4673416008 | Anthropic | Software Engineer, UI Platform
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5076109008 | Anthropic | Solutions Architect, Applied AI
+- [x] https://job-boards.greenhouse.io/anthropic/jobs/5076109008 | Anthropic | Solutions Architect, Applied AI
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5146028008 | Anthropic | Solutions Architect, Applied AI (Beneficial Deployments)
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5065835008 | Anthropic | Solutions Architect, Applied AI (Digital Native Business)
 - [!] SKIP (archetype-mismatch) | https://job-boards.greenhouse.io/anthropic/jobs/5079540008 | Anthropic | Solutions Architect, Applied AI (Federal Civilian)
@@ -159,8 +159,8 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [!] SKIP (location) | https://jobs.ashbyhq.com/deepgram/1278975c-e0d8-45be-82dd-8d0d1f2774e5 | Deepgram | Senior Pre-Sales Solutions Engineer - India
 - [!] SKIP (location) | https://jobs.ashbyhq.com/deepgram/64895340-1377-4b40-b182-1ec6b9644997 | Deepgram | Solutions Architect - India
 - [x] ALREADY_EVALUATED | https://jobs.ashbyhq.com/deepgram/0796cc37-96a7-4158-8a00-155962da275a | Deepgram | Backend Software Engineer - Active Learning Team
-- [ ] https://jobs.ashbyhq.com/deepgram/68372d7d-b7a9-439e-a0a7-76690576aba4 | Deepgram | Software Engineer - Deepgram for Restaurants
-- [ ] https://jobs.ashbyhq.com/deepgram/1ab00006-f525-4e2d-a1a9-5cab4264637b | Deepgram | Backend Engineer- Inference Services
+- [x] https://jobs.ashbyhq.com/deepgram/68372d7d-b7a9-439e-a0a7-76690576aba4 | Deepgram | Software Engineer - Deepgram for Restaurants
+- [x] https://jobs.ashbyhq.com/deepgram/1ab00006-f525-4e2d-a1a9-5cab4264637b | Deepgram | Backend Engineer- Inference Services
 - [x] ALREADY_EVALUATED | https://jobs.ashbyhq.com/deepgram/c69aab8a-e1d5-44ac-9113-12671a364015 | Deepgram | Forward Deployed Engineer, Deepgram for Restaurants
 - [!] SKIP (archetype-mismatch) | https://jobs.ashbyhq.com/deepgram/fb61505f-d3b3-4c43-90a7-6d02f3fd112d | Deepgram | Senior Software Engineer,  Mobile - Saga Team
 - [!] SKIP (archetype-mismatch) | https://jobs.ashbyhq.com/deepgram/f424ef6a-c27f-4984-9e77-40a1ad16ae28 | Deepgram | Site Reliability Engineer - AI & ML Infrastructure (Kubernetes, AWS & Terraform)
@@ -192,23 +192,23 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [!] SKIP (title) | https://jobs.ashbyhq.com/elevenlabs/f2ae7fe0-67da-48ae-b126-b942899ec7e9 | ElevenLabs | Product Marketing - Agents
 - [x] ALREADY_EVALUATED | https://jobs.ashbyhq.com/elevenlabs/7664e3c4-2336-4d1a-90cf-91d1268de10d | ElevenLabs | Forward Deployed Engineer - Software Engineer - Spain
 - [!] SKIP (location) | https://jobs.ashbyhq.com/elevenlabs/fb1fd9cc-bd6d-4895-be29-4bc37d0c31a0 | ElevenLabs | Solutions Engineer - India
-- [ ] https://jobs.ashbyhq.com/elevenlabs/0f27b962-8ff2-4e1b-b138-769a50391800 | ElevenLabs | GTM Agentic Enablement Lead
+- [!] https://jobs.ashbyhq.com/elevenlabs/0f27b962-8ff2-4e1b-b138-769a50391800 | ElevenLabs | GTM Agentic Enablement Lead
 - [!] SKIP (low-fit) | https://jobs.ashbyhq.com/elevenlabs/5d01b08d-a300-4f29-93e4-039147d7ddd7 | ElevenLabs | Enterprise Solutions Engineer - Oceania
 - [!] SKIP (location) | https://job-boards.greenhouse.io/runpod/jobs/5173070008 | RunPod | Forward Deployed Engineer APAC
 - [!] SKIP (title) | https://job-boards.greenhouse.io/runpod/jobs/5112001008 | RunPod | Senior Product Manager 
-- [ ] https://job-boards.greenhouse.io/runpod/jobs/4142227008 | RunPod | Senior Software Engineer (Cloud) 
-- [ ] https://job-boards.greenhouse.io/runpod/jobs/4785681008 | RunPod | Software Engineer (Full-Stack) 
+- [!] https://job-boards.greenhouse.io/runpod/jobs/4142227008 | RunPod | Senior Software Engineer (Cloud) 
+- [!] https://job-boards.greenhouse.io/runpod/jobs/4785681008 | RunPod | Software Engineer (Full-Stack) 
 - [x] #043 | https://job-boards.greenhouse.io/arizeai/jobs/5969145004 | Arize AI | AI Application Engineer | 4.1/5 | PDF ❌
 - [x] #044 | https://job-boards.greenhouse.io/arizeai/jobs/5661972004 | Arize AI | AI Engineer, Instrumentation | 3.9/5 | PDF ❌
 - [!] SKIP (title) | https://job-boards.greenhouse.io/arizeai/jobs/5818115004 | Arize AI | AI Product Manager
 - [!] SKIP (location) | https://job-boards.greenhouse.io/arizeai/jobs/5793354004 | Arize AI | AI Sales Engineer, EMEA
-- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5792327004 | Arize AI | AI Sales Engineer, US
+- [x] https://job-boards.greenhouse.io/arizeai/jobs/5792327004 | Arize AI | AI Sales Engineer, US
 - [x] #045 | https://job-boards.greenhouse.io/arizeai/jobs/5797408004 | Arize AI | AI Solutions Engineer | 4.3/5 | PDF ❌
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5769693004 | Arize AI | AI Solutions Engineer (Charlotte)
 - [!] SKIP (location) | https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | AI Solutions Engineer, EMEA
 - [!] SKIP (title) | https://job-boards.greenhouse.io/arizeai/jobs/5783026004 | Arize AI | AI Solutions Manager (San Francisco)
-- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5396396004 | Arize AI | Senior AI Product Engineer, Backend
-- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5396420004 | Arize AI | Senior AI Product Engineer, Fullstack
+- [!] https://job-boards.greenhouse.io/arizeai/jobs/5396396004 | Arize AI | Senior AI Product Engineer, Backend
+- [!] https://job-boards.greenhouse.io/arizeai/jobs/5396420004 | Arize AI | Senior AI Product Engineer, Fullstack
 - [!] SKIP (title) | https://job-boards.greenhouse.io/gleanwork/jobs/4621972005 | Glean | AI Outcomes Manager, ANZ
 - [!] SKIP (title) | https://job-boards.greenhouse.io/gleanwork/jobs/4661912005 | Glean | AI Outcomes Manager, Central
 - [!] SKIP (title) | https://job-boards.greenhouse.io/gleanwork/jobs/4661934005 | Glean | AI Outcomes Manager, East
@@ -245,15 +245,15 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4637208005 | Glean | Software Engineer, Data Foundations
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4614706005 | Glean | Software Engineer, Developer Productivity 
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/gleanwork/jobs/4006733005 | Glean | Software Engineer, Frontend
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006734005 | Glean | Software Engineer, Fullstack
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659229005 | Glean | Software Engineer, Insights
+- [!] https://job-boards.greenhouse.io/gleanwork/jobs/4006734005 | Glean | Software Engineer, Fullstack
+- [!] https://job-boards.greenhouse.io/gleanwork/jobs/4659229005 | Glean | Software Engineer, Insights
 - [x] ALREADY_EVALUATED | https://job-boards.greenhouse.io/gleanwork/jobs/4012745005 | Glean | Software Engineer, Machine Learning
 - [x] #074 | https://job-boards.greenhouse.io/gleanwork/jobs/4636739005 | Glean | Software Engineer, Platform | 3.8/5 | PDF ❌
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4428090005 | Glean | Software Engineer, Product Backend
+- [!] https://job-boards.greenhouse.io/gleanwork/jobs/4428090005 | Glean | Software Engineer, Product Backend
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/gleanwork/jobs/4436194005 | Glean | Software Engineer, Security
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/gleanwork/jobs/4592324005 | Glean | Software Engineer, University Grad
 - [x] #066 | https://job-boards.greenhouse.io/gleanwork/jobs/4508312005 | Glean | Solutions Architect | 3.8/5 | PDF ❌
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4434258005 | Glean | Solutions Architect (PST/EST Customer hours)
+- [x] https://job-boards.greenhouse.io/gleanwork/jobs/4434258005 | Glean | Solutions Architect (PST/EST Customer hours)
 - [x] ALREADY_EVALUATED | https://job-boards.greenhouse.io/gleanwork/jobs/4676087005 | Glean | Solutions Engineering Manager
 - [x] ALREADY_EVALUATED | https://job-boards.greenhouse.io/gleanwork/jobs/4620264005 | Glean | Strategic Solutions Engineer, East
 - [!] SKIP (title) | https://job-boards.greenhouse.io/gleanwork/jobs/4677083005 | Glean | Tech Lead Manager, Agentic Runtime 
@@ -281,9 +281,9 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [!] SKIP (title) | https://jobs.ashbyhq.com/sierra/2dee25a0-a0c1-425e-b67a-9d49fc821369 | Sierra | Engineering Manager, Agent
 - [!] SKIP (archetype-mismatch) | https://jobs.ashbyhq.com/sierra/8d46d44c-8294-4807-a6b1-5087f0506a38 | Sierra | Strategist, Agent Development (Spanish speaking)
 - [!] SKIP (archetype-mismatch) | https://jobs.ashbyhq.com/sierra/b1fc320b-d0d2-4ca5-9ce3-2ce8f51cf70e | Sierra | Strategist, Agent Development (French speaking)
-- [ ] https://jobs.ashbyhq.com/sierra/1bd9c1e7-a2aa-428d-9a31-1a4eed26391f | Sierra | Software Engineer, Voice
+- [x] https://jobs.ashbyhq.com/sierra/1bd9c1e7-a2aa-428d-9a31-1a4eed26391f | Sierra | Software Engineer, Voice
 - [ ] https://jobs.ashbyhq.com/sierra/2fdb200f-c5cf-420c-9997-5e5cea6e1e20 | Sierra | Software Engineer, Agent Studio
-- [ ] https://jobs.ashbyhq.com/sierra/000dad19-ab52-4790-9c32-ef72dfd2828b | Sierra | Software Engineer, Demo Platform
+- [!] https://jobs.ashbyhq.com/sierra/000dad19-ab52-4790-9c32-ef72dfd2828b | Sierra | Software Engineer, Demo Platform
 - [!] SKIP (low-fit) | https://jobs.ashbyhq.com/sierra/6207b02d-d334-4000-b84e-2af779171838 | Sierra | Software Engineer, Agent (Italian speaking)
 - [!] SKIP (title) | https://jobs.ashbyhq.com/sierra/9dc1651d-43e9-4970-a757-a5223cef1c4d | Sierra | Product Manager, Agent Development (Arabic speaking)
 - [!] SKIP (archetype-mismatch) | https://jobs.ashbyhq.com/sierra/1045b1db-228b-40df-97d8-a8f9371d35bd | Sierra | Strategist, Agent Development (German speaking)
@@ -302,7 +302,7 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [!] SKIP (archetype-mismatch) | https://jobs.ashbyhq.com/sierra/e296cc07-99ca-4ec0-a826-8bdcd168fa15 | Sierra | Integrated Campaign Marketer
 - [!] SKIP (archetype-mismatch) | https://jobs.ashbyhq.com/sierra/2a76bb97-2719-413c-94ad-775553e63abd | Sierra | Strategist, Agent Development - Financial Services
 - [!] SKIP (archetype-mismatch) | https://jobs.ashbyhq.com/sierra/ebe951fb-8e8d-4bff-a499-e19010018f3b | Sierra | Strategist, Agent Development - Healthcare
-- [ ] https://jobs.ashbyhq.com/sierra/eb3ee157-3d2a-412a-88a2-e2cfc5647a66 | Sierra | Software Engineer, Agent - Healthcare
+- [!] https://jobs.ashbyhq.com/sierra/eb3ee157-3d2a-412a-88a2-e2cfc5647a66 | Sierra | Software Engineer, Agent - Healthcare
 - [!] SKIP (archetype-mismatch) | https://jobs.ashbyhq.com/sierra/85e1d0f9-e0d5-4a82-9b30-fa4372e32872 | Sierra | GTM Operations Analyst, Agent Development
 - [!] SKIP (title) | https://jobs.ashbyhq.com/sierra/65eb2c63-c936-4e8e-87e7-ea080dcdca73 | Sierra | Product Manager, Agent Development - Healthcare
 - [!] SKIP (archetype-mismatch) | https://jobs.ashbyhq.com/sierra/39355227-d7a2-4066-b930-2bf2eeebc20c | Sierra | Sales Engineer (Spain)
@@ -311,17 +311,17 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [!] SKIP (title) | https://jobs.ashbyhq.com/sierra/22ba107d-de01-4aa3-98fc-838cccad760c | Sierra | Product Manager, Ghostwriter
 - [!] SKIP (title) | https://job-boards.greenhouse.io/vercel/jobs/5843010004 | Vercel | Anti-Abuse Automation Engineer
 - [!] SKIP (title) | https://job-boards.greenhouse.io/vercel/jobs/5829980004 | Vercel | Engineering Manager, AI Gateway
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5778418004 | Vercel | Forward-Deployed Engineer
+- [x] https://job-boards.greenhouse.io/vercel/jobs/5778418004 | Vercel | Forward-Deployed Engineer
 - [x] #054 | https://job-boards.greenhouse.io/vercel/jobs/5872425004 | Vercel | Forward Deployed Engineer, v0 | 4.2/5 | PDF ❌
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5752684004 | Vercel | Forward-Deployed Engineer 
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5777645004 | Vercel | GTM Engineer 
+- [!] https://job-boards.greenhouse.io/vercel/jobs/5752684004 | Vercel | Forward-Deployed Engineer 
+- [!] https://job-boards.greenhouse.io/vercel/jobs/5777645004 | Vercel | GTM Engineer 
 - [!] SKIP (title) | https://job-boards.greenhouse.io/vercel/jobs/5806456004 | Vercel | Manager, Solutions Architecture
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/vercel/jobs/5553789004 | Vercel | Senior Partner Solutions Engineer
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/vercel/jobs/5788954004 | Vercel | Senior Software Engineer, Trust & Safety
 - [x] #055 | https://job-boards.greenhouse.io/vercel/jobs/5704321004 | Vercel | Software Engineer, Agent | 3.2/5 | PDF ❌
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway
+- [!] https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway
 - [x] #056 | https://job-boards.greenhouse.io/vercel/jobs/5474915004 | Vercel | Software Engineer, AI SDK | 3.5/5 | PDF ❌
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5431123004 | Vercel | Software Engineer, Backend
+- [!] https://job-boards.greenhouse.io/vercel/jobs/5431123004 | Vercel | Software Engineer, Backend
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/vercel/jobs/5179639004 | Vercel | Software Engineer, CDN
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/vercel/jobs/5473266004 | Vercel | Software Engineer, CDN Security
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/vercel/jobs/5551619004 | Vercel | Software Engineer, Compute
@@ -331,33 +331,33 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/vercel/jobs/5613601004 | Vercel | Software Engineer, Growth
 - [!] SKIP (archetype-mismatch) | https://job-boards.greenhouse.io/vercel/jobs/5661583004 | Vercel | Software Engineer, Lua
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5798416004 | Vercel | Software Engineer, Workflows
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5804110004 | Vercel | Solutions Architect
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5806749004 | Vercel | Solutions Architect 
+- [!] https://job-boards.greenhouse.io/vercel/jobs/5804110004 | Vercel | Solutions Architect
+- [!] https://job-boards.greenhouse.io/vercel/jobs/5806749004 | Vercel | Solutions Architect 
 - [!] SKIP (title) | https://jobs.ashbyhq.com/decagon/dcf9b561-f2fb-422b-88a9-33ce76e96608 | Decagon | Senior Agent Product Manager
 - [!] SKIP (title) | https://jobs.ashbyhq.com/decagon/b295b323-3d01-4126-94c1-9fc7489ebdf0 | Decagon | Engineering Manager, Agent Orchestration
 - [x] ALREADY_EVALUATED | https://jobs.ashbyhq.com/decagon/63dd8fb8-8c5b-44e4-8371-5ad453b56eb8 | Decagon | Senior Solutions Engineer
 - [!] SKIP (title) | https://jobs.ashbyhq.com/decagon/d790a2a2-958d-4f49-96ed-adbd68d2e6ce | Decagon | Product Manager
-- [ ] https://jobs.ashbyhq.com/decagon/90c40e13-345e-4855-944e-c8f6b462a78e | Decagon | Senior Software Engineer, Agents
-- [ ] https://jobs.ashbyhq.com/decagon/60f9082c-5ab9-49ef-8731-c86707b45dfa | Decagon | Associate Solutions Engineer
+- [!] https://jobs.ashbyhq.com/decagon/90c40e13-345e-4855-944e-c8f6b462a78e | Decagon | Senior Software Engineer, Agents
+- [x] https://jobs.ashbyhq.com/decagon/60f9082c-5ab9-49ef-8731-c86707b45dfa | Decagon | Associate Solutions Engineer
 - [!] SKIP (title) | https://jobs.ashbyhq.com/decagon/0563a376-0881-48c6-92ae-d1ac4ee58765 | Decagon | Product Manager, Voice Agent
-- [ ] https://jobs.ashbyhq.com/decagon/7a22482c-e2d4-45b6-b364-89b63189a4ae | Decagon | Senior Software Engineer, Infrastructure
+- [!] https://jobs.ashbyhq.com/decagon/7a22482c-e2d4-45b6-b364-89b63189a4ae | Decagon | Senior Software Engineer, Infrastructure
 - [ ] https://jobs.ashbyhq.com/decagon/a81a1a50-d497-4dff-8105-c7a890310396 | Decagon | Solutions Architect - Infrastructure 
 - [!] SKIP (title) | https://jobs.ashbyhq.com/decagon/2ebaf3a1-db73-4d6f-b9d7-fc88989d4827 | Decagon | Engineering Manager, Agents
-- [ ] https://jobs.ashbyhq.com/decagon/75f544ae-7838-4ffa-9e6b-33d7e2b6ea2b | Decagon | Senior Software Engineer, Agent Orchestration
-- [ ] https://jobs.ashbyhq.com/decagon/f7cee7ec-4b60-479d-9ae4-f7d8183f4ef3 | Decagon | Senior Software Engineer, Voice Agent
+- [!] https://jobs.ashbyhq.com/decagon/75f544ae-7838-4ffa-9e6b-33d7e2b6ea2b | Decagon | Senior Software Engineer, Agent Orchestration
+- [!] https://jobs.ashbyhq.com/decagon/f7cee7ec-4b60-479d-9ae4-f7d8183f4ef3 | Decagon | Senior Software Engineer, Voice Agent
 - [!] SKIP (title) | https://jobs.ashbyhq.com/decagon/7ae498c6-750d-43ab-8ad2-ab05b75684eb | Decagon | Agent Success Manager
 - [!] SKIP (title) | https://jobs.ashbyhq.com/decagon/7d842205-3324-4dc0-b682-0b29dd0ca8dc | Decagon | Agent Success Manager 
 - [!] SKIP (archetype-mismatch) | https://jobs.ashbyhq.com/decagon/83267854-2ea8-4322-8ba3-88c2dcb086a5 | Decagon | Solutions Architect - Salesforce 
-- [ ] https://jobs.ashbyhq.com/decagon/03f56b39-866b-41b7-a805-9cf2e16373b9 | Decagon | Senior Software Engineer, Enterprise Product
+- [!] https://jobs.ashbyhq.com/decagon/03f56b39-866b-41b7-a805-9cf2e16373b9 | Decagon | Senior Software Engineer, Enterprise Product
 - [x] #057 | https://jobs.ashbyhq.com/decagon/8c40fb7a-5f25-4112-a1df-f1c22b81042c | Decagon | Customer Engineer, Agent Builder | 4.3/5 | PDF ❌
-- [ ] https://jobs.ashbyhq.com/decagon/491d67c4-b877-4ddc-895a-496eed6777ed | Decagon | Senior Software Engineer, Developer Platform
+- [!] https://jobs.ashbyhq.com/decagon/491d67c4-b877-4ddc-895a-496eed6777ed | Decagon | Senior Software Engineer, Developer Platform
 - [!] SKIP (title) | https://jobs.ashbyhq.com/decagon/6321ea2f-4e21-4c18-8859-b4ef5489b6fe | Decagon | Product Manager, Research
 - [x] #058 | https://jobs.ashbyhq.com/decagon/6431a6f9-2ebe-4b68-beb6-200b42aeeca8 | Decagon | Strategic Solutions Engineer, East | 2.8/5 | PDF ❌
 - [ ] https://jobs.ashbyhq.com/decagon/78745829-74ee-41cb-836c-480ca7bf9edc | Decagon | Strategic Solutions Engineer, West
 - [ ] https://jobs.ashbyhq.com/decagon/95dadea4-8bd2-421a-bf3f-51c04e102ee2 | Decagon | Enterprise Solutions Engineer
 - [ ] https://jobs.ashbyhq.com/decagon/c2ea9bd2-7a20-4fbb-b301-5e587415baeb | Decagon | AI Transformation Specialist
 - [ ] https://jobs.ashbyhq.com/decagon/3f81fb0a-82c4-4e3b-9ea3-d5ebcbb28ca6 | Decagon | Partnerships, Agent Delivery Lead
-- [ ] https://jobs.ashbyhq.com/decagon/63cd7634-f67f-4051-be45-515ed4f6a074 | Decagon | Senior Software Engineer, ML Infrastructure
+- [!] https://jobs.ashbyhq.com/decagon/63cd7634-f67f-4051-be45-515ed4f6a074 | Decagon | Senior Software Engineer, ML Infrastructure
 - [!] SKIP (low-fit) | https://jobs.ashbyhq.com/decagon/060b5fd4-9962-491f-8116-4faa778500d7 | Decagon | Enterprise Solutions Engineer - LATAM
 - [ ] https://jobs.ashbyhq.com/n8n/788662b7-6b2b-4b07-b466-bf131fd95d08 | n8n | Senior Solutions Engineer | East Coast - Remote
 - [ ] https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297 | n8n | Sr AI Engineer | Remote - Europe | TS/Vue/NodeJS
@@ -408,7 +408,7 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [!] SKIP (title) | https://jobs.ashbyhq.com/cohere/2a179d34-c391-48bd-b2a3-b04f468a3840 | Cohere | Product Manager, Search and Embeddings
 - [ ] https://jobs.ashbyhq.com/cohere/ca446389-c793-459b-b07a-a3544defea04 | Cohere | Solutions Architect
 - [!] SKIP (location) | https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (UK/EU/ME)
-- [ ] https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a | Cohere | Forward Deployed Engineer, Infrastructure Specialist (North America)
+- [x] https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a | Cohere | Forward Deployed Engineer, Infrastructure Specialist (North America)
 - [!] SKIP (location) | https://jobs.ashbyhq.com/cohere/df93ec57-d51e-4466-93be-4878c5fda4da | Cohere | Software Engineer - Applied ML - UK Public Sector
 - [!] SKIP (low-fit) | https://jobs.ashbyhq.com/cohere/2786dc50-5662-461a-9946-a821ad42816f | Cohere | Software Engineer, Collect
 - [ ] https://jobs.ashbyhq.com/cohere/38f75a48-199c-4325-a7f8-2af6ed6a1b3b | Cohere | Forward Deployed Engineer, Infrastructure Specialist
@@ -431,7 +431,7 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [!] SKIP (title) | https://jobs.ashbyhq.com/cohere/f8e85a7c-1eb0-47f8-8140-1c4e7892f17d | Cohere | Technical Program Manager, AI Delivery for Public Sector & Defence
 - [!] SKIP (title) | https://jobs.ashbyhq.com/cohere/2a7f1fad-05ff-4260-af36-556d1d694775 | Cohere | Product Manager, Public Sector & Defence
 - [!] SKIP (title) | https://jobs.ashbyhq.com/cohere/1d1b300d-254b-48c4-958f-99c6b907f295 | Cohere | Product Manager, Agent Harness & Modelling
-- [ ] https://jobs.ashbyhq.com/attio/d48617ff-be9b-41cd-aff7-3ad2f826ca74 | Attio | Solutions Engineer [Pre and Post-Sales] - Mid-Market
+- [x] https://jobs.ashbyhq.com/attio/d48617ff-be9b-41cd-aff7-3ad2f826ca74 | Attio | Solutions Engineer [Pre and Post-Sales] - Mid-Market
 - [!] SKIP (low-fit) | https://jobs.ashbyhq.com/attio/ce226be1-8237-41ce-b5ca-97c18d3ca8e6 | Attio | Solutions Engineer [Pre and Post-Sales] - SMB
 - [!] SKIP (low-fit) | https://jobs.ashbyhq.com/attio/c05a61a4-ae7c-4d93-a920-08d60c7448ad | Attio | Senior Platform Engineer 
 - [!] SKIP (EU-only company) | https://jobs.ashbyhq.com/AlephAlpha/1963147c-dc27-416e-b432-065295733bef | Aleph Alpha | AI Software Engineer - Model Evaluation (f/m/d)
@@ -857,15 +857,15 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/hightouch/jobs/5618829004 | Hightouch | AI Strategy Consultant 
 - [!] SKIP (title) | https://job-boards.greenhouse.io/hightouch/jobs/5726252004 | Hightouch | Enterprise Account Executive -Mountain West
 - [x] #070 | https://job-boards.greenhouse.io/hightouch/jobs/5134194004 | Hightouch | Enterprise Solutions Engineer, East | 2.8/5 | PDF ❌
-- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5530769004 | Hightouch | Enterprise Solutions Engineer, West
+- [x] https://job-boards.greenhouse.io/hightouch/jobs/5530769004 | Hightouch | Enterprise Solutions Engineer, West
 - [!] SKIP (title) | https://job-boards.greenhouse.io/hightouch/jobs/5718912004 | Hightouch | Forward Deployed Marketing Data Scientist
-- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5535187004 | Hightouch | Mid-Market Solutions Engineer
+- [x] https://job-boards.greenhouse.io/hightouch/jobs/5535187004 | Hightouch | Mid-Market Solutions Engineer
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/hightouch/jobs/5807949004 | Hightouch | Partner Solutions Engineer
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/hightouch/jobs/5970143004 | Hightouch | Product Lead, Agentic Ads Platform
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/hightouch/jobs/5834919004 | Hightouch | Product Lead, Agentic Personalization
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5838911004 | Hightouch | Senior Enterprise Solutions Engineer, New York
 - [x] #050 | https://job-boards.greenhouse.io/hightouch/jobs/5542602004 | Hightouch | Software Engineer, AI Agents | 4.4/5 | PDF ❌
-- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5809895004 | Hightouch | Software Engineer - AI Productivity
+- [x] https://job-boards.greenhouse.io/hightouch/jobs/5809895004 | Hightouch | Software Engineer - AI Productivity
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/hightouch/jobs/5426891004 | Hightouch | Software Engineer, Control Plane
 - [!] SKIP (low-fit) | https://job-boards.greenhouse.io/hightouch/jobs/4782625004 | Hightouch | Software Engineer, Customer Studio Backend
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/4782632004 | Hightouch | Software Engineer, Distributed Systems
@@ -1041,7 +1041,7 @@ Add job URLs here, one per line, then run `/career-ops pipeline` to evaluate the
 - [ ] https://jobs.ashbyhq.com/Mintlify/5c8d7302-6c94-429d-a3ff-bd38a71ea2d3 | Mintlify | Backend AI Engineer
 - [ ] https://jobs.lever.co/aircall/f7eef342-5593-4d3c-9a7c-1259182e1482 | Aircall | Forward Deployed Engineer
 - [ ] https://jobs.lever.co/aircall/ced85f57-e8da-4788-b839-a7fcba9ec7f1 | Aircall | Forward Deployed Engineer - San Francisco
-- [ ] https://jobs.lever.co/aircall/4965256f-b814-46a5-b6f6-e83bec714120 | Aircall | Forward Deployed Engineer - New York
+- [x] https://jobs.lever.co/aircall/4965256f-b814-46a5-b6f6-e83bec714120 | Aircall | Forward Deployed Engineer - New York
 - [ ] https://jobs.lever.co/CordTechnologies/13528d86-c569-4351-ad5b-90e12f4ada00 | Encord | Solutions Engineer - US (San Francisco)
 - [ ] https://jobs.lever.co/field-ai/6fc39622-b8e9-4aab-804a-b5fc61549dc0 | FieldAI | Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/openai/c1316397-25bb-4add-9e9d-0e3ea8ba929a/application | OpenAI | Software Engineer, Agent Infrastructure
